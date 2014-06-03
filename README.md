@@ -25,7 +25,7 @@ Course Projects / Independent Projects
 - Do a mock interview.(CareerCup)
 
 #### a "must known" list:
-`_Data Structures_`
+_`Data Structures`_
 
 - Linked Lists
 - Binary Trees
@@ -35,7 +35,7 @@ Course Projects / Independent Projects
 - Vector / ArrayLists
 - Hash Tables
 
-`_Alogrithms_`
+_`Alogrithms`_
 - BFS
 - DFS
 - Binary Search
@@ -43,7 +43,7 @@ Course Projects / Independent Projects
 - Quick SOrt
 - Tree Insert / Find / etc
 
-`_Concepts_`
+_`Concepts`_
 - Bit Manipulation
 - Singleton Design Pattern
 - Factory Desigh Pattern
