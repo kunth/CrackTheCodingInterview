@@ -7,18 +7,22 @@ Where I get the Crack-The-Coding-Interview book online?
 
 If you still can't download it, email me and I will send you one copy.
 
+***
 
 #### Key in resume:
 
-_`Are you smart?`_
-_`Can you code?`_
+- _`Are you smart?`_
 
-***
+- _`Can you code?`_
+
 Limit the content to the best, most impressive, most relevant items.
+
 Accomplished X by implementing Y which led to Z.
+
 Try to make the results "measurable" somehow.
 
 Projects,(whether it is academic project, course project) what it is, language, individual or a team project.
+
 Course Projects / Independent Projects
 
 - Try to solve the problem on your own.
