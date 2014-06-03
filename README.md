@@ -19,10 +19,10 @@ Try to make the results "measurable" somehow.
 Projects,(whether it is academic project, course project) what it is, language, individual or a team project.
 Course Projects / Independent Projects
 
-1. Try to solve the problem on your own.
-2. Write the code for the algorithm on paper.
-3. Type your paper code as-is into a computer.
-4. Do a mock interview.(CareerCup)
+- Try to solve the problem on your own.
+- Write the code for the algorithm on paper.
+- Type your paper code as-is into a computer.
+- Do a mock interview.(CareerCup)
 
 #### a "must known" list:
 `_Data Structures_`
@@ -68,4 +68,4 @@ So when you get a hard question, don't panic. Just start talking aloud about how
 
 5. Test your code and carefully fix any mistakes.
 
-[1]:http://yun.baidu.com/share/link?uk=923744475&shareid=1595974228  “file from baidu”
+[1]:http://yun.baidu.com/share/link?uk=923744475&shareid=1595974228
