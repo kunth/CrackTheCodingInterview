@@ -8,9 +8,11 @@ Where I get the Crack-The-Coding-Interview book online?
 If you still can't download it, email me and I will send you one copy.
 
 
-Key in resume:
-Are you smart?
-Can you code?
+#### Key in resume:
+
+_`Are you smart?`_
+_`Can you code?`_
+
 ***
 Limit the content to the best, most impressive, most relevant items.
 Accomplished X by implementing Y which led to Z.
