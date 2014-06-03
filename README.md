@@ -26,29 +26,30 @@ Course Projects / Independent Projects
 
 #### a "must known" list:
 `_Data Structures_`
-1. Linked Lists
-2. Binary Trees
-3. Tries
-4. Stacks
-5. Queues
-6. Vector / ArrayLists
-7. Hash Tables
+
+- Linked Lists
+- Binary Trees
+- Tries
+- Stacks
+- Queues
+- Vector / ArrayLists
+- Hash Tables
 
 `_Alogrithms_`
-1. BFS
-2. DFS
-3. Binary Search
-4. Merge Sort
-5. Quick SOrt
-6. Tree Insert / Find / etc
+- BFS
+- DFS
+- Binary Search
+- Merge Sort
+- Quick SOrt
+- Tree Insert / Find / etc
 
 `_Concepts_`
-1. Bit Manipulation
-2. Singleton Design Pattern
-3. Factory Desigh Pattern
-4. Memory(Stack vs Heap)
-5. Recursion
-6. Big-O Time
+- Bit Manipulation
+- Singleton Design Pattern
+- Factory Desigh Pattern
+- Memory(Stack vs Heap)
+- Recursion
+- Big-O Time
 
 Data Structures and Algorithms
 
@@ -58,14 +59,14 @@ Structure the responses using S.A.R. : Situation, Action, Response.
 
 So when you get a hard question, don't panic. Just start talking aloud about how you would solve it.
 
-1. Ask your interviewer questions to resolve ambiguity.
+- Ask your interviewer questions to resolve ambiguity.
 
-2. Design an Algorithm.
+- Design an Algorithm.
 
-3. Write pseudo-code first, but make sure to tell your interviewer that you're writing pseudo-code.
+- Write pseudo-code first, but make sure to tell your interviewer that you're writing pseudo-code.
 
-4. Write your code, not too slow and not too fast.
+- Write your code, not too slow and not too fast.
 
-5. Test your code and carefully fix any mistakes.
+- Test your code and carefully fix any mistakes.
 
 [1]:http://yun.baidu.com/share/link?uk=923744475&shareid=1595974228
