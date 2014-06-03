@@ -57,18 +57,15 @@ Be Specific, Not Arrogant.
 Structure the responses using S.A.R. : Situation, Action, Response.
 
 So when you get a hard question, don't panic. Just start talking aloud about how you would solve it.
-***
-A technical interview question can be solved utilizing a five step approach:
 
-1.Ask your interviewer questions to resolve ambiguity.
+1. Ask your interviewer questions to resolve ambiguity.
 
-2.Design an Algorithm.
+2. Design an Algorithm.
 
-3.Write pseudo-code first, but make sure to tell your interviewer that you're writing pseudo-code.
+3. Write pseudo-code first, but make sure to tell your interviewer that you're writing pseudo-code.
 
-4.Write your code, not too slow and not too fast.
+4. Write your code, not too slow and not too fast.
 
-5.Test your code and carefully fix any mistakes.
-
+5. Test your code and carefully fix any mistakes.
 
 [1]:http://yun.baidu.com/share/link?uk=923744475&shareid=1595974228  “file from baidu”
