@@ -1,3 +1,6 @@
+//Pay attention to string's operation about '+=' and 'append'
+//I do it in a hurry, and I'm silly that I still do not find the mystery of the subject
+//So I did it in the normal way, if there exists, please let me know.
 #include<string>
 #include<cstdio>
 using namespace std;
