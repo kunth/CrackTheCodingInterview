@@ -1,3 +1,5 @@
+//This subject is a little simpler than https://oj.leetcode.com/problems/partition-list/
+//which my solution is https://github.com/kunth/Leetcode/blob/master/Leetcode_partition-list.cpp
 #include<cstdio>
 #include<vector>
 #include<algorithm>
