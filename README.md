@@ -7,7 +7,6 @@ Where do I get the Crack-The-Coding-Interview book online?
 
 - Chapter 1: `Arrays and String`, 8 subjects, which begins _1._, same are the next chapters.
 - Chapter 2: `Linked lists`
-***
 
 #### Key in resume:
 
@@ -15,8 +14,11 @@ Where do I get the Crack-The-Coding-Interview book online?
 - _`Can you code?`_
 
 Limit the content to the best, most impressive, most relevant items.
+
 Accomplished X by implementing Y which led to Z.
+
 Try to make the results "measurable" somehow.
+
 Projects,(whether it is academic project, course project) what it is, language, individual or a team project.
 
 Course Projects / Independent Projects
