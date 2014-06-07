@@ -5,14 +5,13 @@ Where I get the Crack-The-Coding-Interview book online?
 
 [CrackTheCodingInterview][1]
 
-If you still can't download it, email me and I will send you one copy.
+Chapter 1 : `Arrays and String`, which begins _1._, same are the next chapters.
 
 ***
 
 #### Key in resume:
 
 - _`Are you smart?`_
-
 - _`Can you code?`_
 
 Limit the content to the best, most impressive, most relevant items.
@@ -56,8 +55,6 @@ _`Concepts`_
 - Memory(Stack vs Heap)
 - Recursion
 - Big-O Time
-
-Data Structures and Algorithms
 
 Be Specific, Not Arrogant.
 
