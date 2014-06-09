@@ -29,3 +29,4 @@ public:
     }
 };
 
+//abandon testing since accepted by Leetcode.

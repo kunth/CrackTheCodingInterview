@@ -54,3 +54,5 @@ public:
         return true;
     }
 };
+
+//abandon testing since accepted by Leetcode.
