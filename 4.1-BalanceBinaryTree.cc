@@ -1,5 +1,6 @@
 //Same with Leetcode: https://oj.leetcode.com/problems/balanced-binary-tree/
 //60 ms Accepted
+//My Leetcode solution: https://github.com/kunth/Leetcode/blob/master/Leetcode_balanced-binary-tree.cc
 /**
 * Definition for binary tree
 * struct TreeNode {
