@@ -29,31 +29,15 @@ Course Projects / Independent Projects
 - Do a mock interview.(CareerCup)
 
 #### a "must known" list:
-_`Data Structures`_
-
-- Linked Lists
-- Binary Trees
-- Tries
-- Stacks
-- Queues
-- Vector / ArrayLists
-- Hash Tables
-
-_`Alogrithms`_
-- BFS
-- DFS
-- Binary Search
-- Merge Sort
-- Quick SOrt
-- Tree Insert / Find / etc
-
-_`Concepts`_
-- Bit Manipulation
-- Singleton Design Pattern
-- Factory Desigh Pattern
-- Memory(Stack vs Heap)
-- Recursion
-- Big-O Time
+| Data Structures     | Algorithm            | Concepts                |
+| :------------------ | ---------------------| ------------------------|
+| Linked Lists        | BFS                  | Bit Manipulation        |
+| Binary Trees        | DFS                  | Singleton Design Pattern|
+| Tries               | Binary Search        | Factory Design Pattern  |
+| Stacks              | Merge Sort           | Memory(Stack vs Heap)   |
+| Queues              | Quick Sort           | Recursion               |
+| Vector / ArrayLists | Tree Insert/Find/etc | Big-O Time              |
+| Hash Tables         |                      |                         |
 
 Be Specific, Not Arrogant.
 
