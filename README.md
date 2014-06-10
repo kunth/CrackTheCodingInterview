@@ -6,10 +6,15 @@ Where do I get the Crack-The-Coding-Interview book online?
 [CrackTheCodingInterview][1]
 
 > Chapter 1: **Arrays and String**, 8 subjects, which begins _1._, same are the next chapters.
+
 > Chapter 2: **Linked lists**
+
 > Chapter 3: **Stacks and Queues**
+
 > Chapter 4: **Trees and Graphs**
+
 > Chapter 5: **Bit Manipulation**
+
 > Chapter 6: **Brain Teasers**
 
 #### Key in resume:
