@@ -17,6 +17,8 @@ Where do I get the Crack-The-Coding-Interview book online?
 
 > Chapter 6: **Brain Teasers**
 
+> Chapter 7: **Mathematics and Probability**
+
 #### Key in resume:
 
 - _`Are you smart?`_
