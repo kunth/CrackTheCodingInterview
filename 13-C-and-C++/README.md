@@ -1,3 +1,5 @@
+## `This file merges all the .md files above`
+
 ### 13.2 Compare and contrast a hash table and an STL map. Hos is a hash table implemented? If the number of inputs is small, which data structure options can be used instesd of a hash table?
 
 In a hash table, a value is stored by calling a hash function on a key. Values are not stored in sorted order. Additionally, since hash tables use the key to find the index that will store the value, an insert or lookup can be done in amortized 0(1) time (assuming few collisions in the hash table). In a hash table, one must also handle potential collisions. This is often done by chaining, which means to create a linked list of all the values whose keys map to a particular index.
@@ -48,4 +50,4 @@ void deep_copy(Test & src, Test & dest){
 
 ### 13.5 What is the significance of the keyword "volatile" in C?
 
-volatilevolatile告知编译器，变量在代码不改变的情况下也可以由外部而改变。这可能是由操作系统、硬件、或者另外一个线程。因为volatile变量可能会意外改变，所以每次编译器都从内存中重取其值。
+volatile告知编译器，变量在代码不改变的情况下也可以由外部而改变。这可能是由操作系统、硬件、或者另外一个线程。因为volatile变量可能会意外改变，所以每次编译器都从内存中重取其值。
