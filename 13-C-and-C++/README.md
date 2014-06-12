@@ -1,4 +1,4 @@
-## `This file merges all the .md files above`
+##### `This file merges all the .md files above`
 
 ### 13.2 Compare and contrast a hash table and an STL map. Hos is a hash table implemented? If the number of inputs is small, which data structure options can be used instesd of a hash table?
 
@@ -51,3 +51,78 @@ void deep_copy(Test & src, Test & dest){
 ### 13.5 What is the significance of the keyword "volatile" in C?
 
 volatile告知编译器，变量在代码不改变的情况下也可以由外部而改变。这可能是由操作系统、硬件、或者另外一个线程。因为volatile变量可能会意外改变，所以每次编译器都从内存中重取其值。
+### 13.6 Why does a destructor in base class need to be declared virtual?
+
+``` c++
+class A{
+public:
+  virtual void foo(){
+      printf("A foo\n");
+  }
+  ~A(){
+      printf("A destructor\n");
+  }
+};
+
+class B: public A{
+  void foo(){
+      printf("B foo\n");
+  }
+  ~B(){
+      printf("B destructor\n");
+  }
+};
+
+int main()
+{
+    A*a = new B();
+    a->foo();
+    delete a;
+    return 1;
+}
+```
+运行结果：
+
+``` C++
+B foo
+A destructor
+```
+而如果在析构函数前加上virtual
+
+``` c++
+class A{
+public:
+  virtual void foo(){
+      printf("A foo\n");
+  }
+  virtual ~A(){
+      printf("A destructor\n");
+  }
+};
+
+class B: public A{
+  void foo(){
+      printf("B foo\n");
+  }
+  ~B(){
+      printf("B destructor\n");
+  }
+};
+
+int main()
+{
+    A*a = new B();
+    a->foo();
+    delete a;
+    return 1;
+}
+```
+运行结果：
+
+``` C++
+B foo
+B destructor
+A destructor
+```
+
+如果A的析构函数不是virtual， 那么仅有A的析构函数被调用，即便p实际上是类型B. 将基类的析构函数声明为virtual，是用于确保派生类的析构函数能被调用。
