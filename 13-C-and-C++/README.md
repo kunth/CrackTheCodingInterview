@@ -125,4 +125,4 @@ B destructor
 A destructor
 ```
 
-如果A的析构函数不是virtual， 那么仅有A的析构函数被调用，即便p实际上是类型B. 将基类的析构函数声明为virtual，是用于确保派生类的析构函数能被调用。
+如果A的析构函数不是virtual， 那么仅有A的析构函数被调用，即便p实际上是类型B. 将基类的析构函数声明为virtual，是用于确保派生类的析构函数能被调用, without memory leak.
