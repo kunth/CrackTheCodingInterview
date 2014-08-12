@@ -1,6 +1,6 @@
 ##### `This file merges all the .md files above`
 
-### 13.2 Compare and contrast a hash table and an STL map. Hos is a hash table implemented? If the number of inputs is small, which data structure options can be used instesd of a hash table?
+### 13.2 Compare and contrast a hash table and an STL map. How is a hash table implemented? If the number of inputs is small, which data structure options can be used instesd of a hash table?
 
 In a hash table, a value is stored by calling a hash function on a key. Values are not stored in sorted order. Additionally, since hash tables use the key to find the index that will store the value, an insert or lookup can be done in amortized 0(1) time (assuming few collisions in the hash table). In a hash table, one must also handle potential collisions. This is often done by chaining, which means to create a linked list of all the values whose keys map to a particular index.
 
