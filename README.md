@@ -66,4 +66,6 @@ So when you get a hard question, don't panic. Just start talking aloud about how
 
 - Test your code and carefully fix any mistakes.
 
+## Besides, I would represent some my own experience later
+
 [1]:http://yun.baidu.com/share/link?uk=923744475&shareid=1595974228
