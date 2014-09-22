@@ -1,4 +1,3 @@
-``` c++
 #include<cstdio>
 
 typedef struct linklist
@@ -34,4 +33,3 @@ int main()
 {
   return 0;
 }
-```
